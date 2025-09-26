@@ -18,7 +18,7 @@
 5. **Output**: zipped handover (spec, code blocks, tests, docs + changelog).
 
 > **Implementation in Flowise**: Use **one main Chatflow (Manager)** that calls **three child Chatflows (Workers)** via **HTTP Request** nodes hitting Flowise’s REST API for those child flows.
-> [![Watch the demo](assets/demo-thumb.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+> [![Watch the demo](1.png)](https://youtu.be/dsdyUiO6wd8)
 
 
 ---
